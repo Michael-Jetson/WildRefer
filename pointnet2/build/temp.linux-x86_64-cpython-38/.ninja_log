@@ -1,0 +1,10 @@
+# ninja log v5
+312	41468	1694147433722126043	/remote-home/linzhx/ICCV_PROJECT/final_model_with_code/WildRefer/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/interpolate_gpu.o	33a79b1293d23afb
+312	42039	1694147434336186804	/remote-home/linzhx/ICCV_PROJECT/final_model_with_code/WildRefer/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/group_points_gpu.o	f45a7a445066944
+311	43272	1694147435534307292	/remote-home/linzhx/ICCV_PROJECT/final_model_with_code/WildRefer/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/ball_query_gpu.o	91505d5028c0d492
+311	44261	1694147436281600130	/remote-home/linzhx/ICCV_PROJECT/final_model_with_code/WildRefer/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/bindings.o	7ca8a1a74dc46b9a
+312	46120	1694147436409837813	/remote-home/linzhx/ICCV_PROJECT/final_model_with_code/WildRefer/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/interpolate.o	8b72fdeab24743b7
+314	46122	1694147437197831091	/remote-home/linzhx/ICCV_PROJECT/final_model_with_code/WildRefer/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/sampling_gpu.o	b3aa775e67a37100
+309	47092	1694147439353988561	/remote-home/linzhx/ICCV_PROJECT/final_model_with_code/WildRefer/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/ball_query.o	457d0fbdb839da24
+312	49749	1694147441946765996	/remote-home/linzhx/ICCV_PROJECT/final_model_with_code/WildRefer/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/sampling.o	65ea36210b4cf850
+311	55939	1694147447790344919	/remote-home/linzhx/ICCV_PROJECT/final_model_with_code/WildRefer/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/group_points.o	1f70afdf75f19b78
